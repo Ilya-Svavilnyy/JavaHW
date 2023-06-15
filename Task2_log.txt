@@ -1,0 +1,111 @@
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 0. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 1. Array changed [7, 3, 8, 5, 1, 6, 2, 9, 4] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 2. Array changed [7, 3, 5, 8, 1, 6, 2, 9, 4] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 3. Array changed [7, 3, 5, 1, 8, 6, 2, 9, 4] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 4. Array changed [7, 3, 5, 1, 6, 8, 2, 9, 4] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 5. Array changed [7, 3, 5, 1, 6, 2, 8, 9, 4] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 6. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 7. Array changed [7, 3, 5, 1, 6, 2, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 8. Array changed [3, 7, 5, 1, 6, 2, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 9. Array changed [3, 5, 7, 1, 6, 2, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 10. Array changed [3, 5, 1, 7, 6, 2, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 11. Array changed [3, 5, 1, 6, 7, 2, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 12. Array changed [3, 5, 1, 6, 2, 7, 8, 4, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 13. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 14. Array changed [3, 5, 1, 6, 2, 7, 4, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 15. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 16. Array changed [3, 1, 5, 6, 2, 7, 4, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 17. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 18. Array changed [3, 1, 5, 2, 6, 7, 4, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 19. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 20. Array changed [3, 1, 5, 2, 6, 4, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 21. Array changed [1, 3, 5, 2, 6, 4, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 22. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 23. Array changed [1, 3, 2, 5, 6, 4, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 24. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 25. Array changed [1, 3, 2, 5, 4, 6, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 26. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 27. Array changed [1, 2, 3, 5, 4, 6, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 28. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 29. Array changed [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 30. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 31. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 32. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 33. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 34. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: 35. Array dont change after last iteration 
+
+θών. 15, 2023 5:26:11 PM Task2 main
+INFO: Created 35 operations.
+Sort result  - [1, 2, 3, 4, 5, 6, 7, 8, 9]
